@@ -82,8 +82,11 @@ analytics:
 author:
   name             : "史金钢（Jingang Shi）"
   avatar           : "profile.png"
-  bio              : "西安交通大学副教授，博士生导师，入选交大青年拔尖人才计划"
-  location         : "陕西省西安市雁塔区雁翔路99号西安交通大学曲江校区西四楼 102"
+  bio              : "西安交通大学副教授
+                      博士生导师
+                      入选交大青年拔尖人才计划"
+  location         : "陕西省西安市雁塔区雁翔路99号
+                      西安交通大学曲江校区西四楼 102"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=N2ftCz4AAAAJ&hl=en&oi=ao"
